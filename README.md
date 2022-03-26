@@ -52,7 +52,7 @@ The arguments of MeCi are as followings:
 	This step is required. 
 
 -------------------------------
-3 An example of running MeCi
+## 3 An example of running MeCi
 
 Please download MeCi-v1.0.tar.gz and MeCi-v1.0-testdata.tar.gz from https:// https://www.github.com/zyfscau/MeCi.  And then unzip MeCi-v1.0-testdata.tar.gz to get four files (test.R1.fq.gz and test.R2.fq.gz are fastq files for one sample, NC_007982.1.fa is mitochondrial genome of Zea mays, runMe.sh is the command to perform MeCi for this test data).
 
@@ -151,6 +151,6 @@ Each column gives information of a read which support at least one circRNA:
     Column 12: unique or multiple alignment of the junction read on the reference genome.
 
 
-##4 Citations:
+## 4 Citations:
 
 If you use MeCi, please cite the following papers:
