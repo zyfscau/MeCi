@@ -153,4 +153,4 @@ Each column gives information of a read which support at least one circRNA:
 
 ## 4 Citations:
 
-If you use MeCi, please cite the following papers:
+If you use MeCi, please cite the following papers: Xun Liao, Xiao-Jie Li, Guan-Tao Zheng, Feng-Rui Chang, Lin Fang, Hang Yu, Jun Huang, Ya-Feng Zhang*, Mitochondrion-encoded circular RNAs are widespread and translatable in plants, Plant Physiol. 2022 Mar 24;189(3):1482–1500. doi: 10.1093/plphys/kiac143
